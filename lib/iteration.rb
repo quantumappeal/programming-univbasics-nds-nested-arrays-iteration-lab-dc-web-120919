@@ -1,5 +1,5 @@
 def join_ingredients(src)
-  result = ["element1", "element2"]
+  result = []
     
   i = 0
   while i < src.length do
