@@ -1,5 +1,5 @@
 def join_ingredients(src)
-  result = ["anchovies", "pepperoni"]
+  result = ["element1", "element2"]
     i = 0
   while i < src.length do
     inner = src[i]
