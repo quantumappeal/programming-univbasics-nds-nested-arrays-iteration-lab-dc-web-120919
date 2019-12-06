@@ -1,5 +1,13 @@
 def join_ingredients(src)
-  
+  result = []
+    i = 0
+  while i < src.length do
+    inner = src[anchovies, pepperoni]
+    result << "I love #{inner[0]} and #{inner[1]} on my pizza"
+    i += 1
+    
+    result
+  end
   
   # Given an Array of 2-element Arrays ( [ [food1, food2], [food3, # food4]....[foodN, foodM]]):
   #
